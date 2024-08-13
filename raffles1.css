@@ -1,0 +1,18 @@
+.box{
+    width: 1400px;
+    height:400px;
+    margin:0 auto;    
+}
+.box h1{
+    width: 1400px;
+    height: 500px;
+    background-image: conic-gradient(from 180deg at 30% 50%,red 0deg,darkgreen 90deg,red 90deg,
+    darkgreen 180deg,darkgreen 180deg,blue 360deg);
+    font-size: 30em;
+    margin-top: 80px;
+    padding-top: 40px;
+    font-family: impact;
+    background-clip: text;
+    -webkit-background-clip: text; 
+    color: transparent;   
+   )
